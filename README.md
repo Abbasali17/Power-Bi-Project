@@ -1,4 +1,4 @@
-# Power-BI-Project
+# Power BI Project
 Project developed with Power BI to display a dashboard that provides sales insights
 
 <ul>
